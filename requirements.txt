@@ -1,0 +1,5 @@
+fastapi
+transformers
+gunicorn
+uvicorn
+tensorflow==2.1
